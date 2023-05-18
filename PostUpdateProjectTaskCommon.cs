@@ -22,6 +22,7 @@ namespace MCS.PSA.Plugins
     {
         /// <summary>
         /// Enabled For Snapshot.
+        /// Enabled For Snapshot.
         /// </summary>
         /// <param name="targetEntity">target Entity.</param>
         /// <param name="service">Organization service.</param>
